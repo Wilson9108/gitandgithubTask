@@ -29,5 +29,4 @@ setTimeout(()=>{
 setTimeout(()=>{
     updateHeaderName("GIT AND GITHUB")
     changeInputNames("Enter Name","Enter  Email")
-
 },1000*6)
